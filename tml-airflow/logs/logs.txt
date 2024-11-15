@@ -12221,3 +12221,4 @@ Already up to date.
 [INFO 2024-11-15_06:48:15] TML Solution Studio: git push Status for project cybersecuritywithprivategpt1-f2d7: Everything up-to-date
 [INFO 2024-11-15_06:53:21] Deleting topic iot-raw-data in tml_system_step_2_kafka_createtopic_dag-cybersecuritywithprivategpt1-f2d7.py
 [INFO 2024-11-15_06:53:25] Deleting topic iot-preprocess in tml_system_step_2_kafka_createtopic_dag-cybersecuritywithprivategpt1-f2d7.py
+[INFO 2024-11-15_06:53:29] Deleting topic iot-preprocess2 in tml_system_step_2_kafka_createtopic_dag-cybersecuritywithprivategpt1-f2d7.py
