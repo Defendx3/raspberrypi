@@ -12328,3 +12328,4 @@ origin	https://<personal access token hidden>@github.com/Defendx3/raspberrypi.gi
 [INFO 2024-11-19_15:54:47] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-cybersecuritywithprivategpt-f2d7.py
 [INFO 2024-11-19_15:54:55] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-cybersecuritywithprivategpt-f2d7.py
 [INFO 2024-11-19_15:56:33] {'name': ['Project with slug "cybersecuritywithprivategpt-f2d7" already exists.']}
+[INFO 2024-11-19_16:06:52] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-cybersecuritywithprivategpt-f2d7.py
