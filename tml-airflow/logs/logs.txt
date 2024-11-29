@@ -12366,3 +12366,4 @@ origin	https://<personal access token hidden>@github.com/Defendx3/raspberrypi.gi
 [INFO 2024-11-29_16:09:10] Visualization DAG in tml_system_step_7_kafka_visualization_dag-cybersecuritywithprivategpt-f2d7.py
 [INFO 2024-11-29_16:09:23] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-cybersecuritywithprivategpt-f2d7.py
 [INFO 2024-11-29_16:09:30] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-cybersecuritywithprivategpt-f2d7.py
+[INFO 2024-11-29_16:10:54] {'name': ['Project with slug "cybersecuritywithprivategpt-f2d7" already exists.']}
