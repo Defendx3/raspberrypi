@@ -12387,3 +12387,4 @@ origin	https://<personal access token hidden>@github.com/Defendx3/raspberrypi.gi
 [INFO 2024-12-03_15:07:38] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-cybersecuritywithprivategpt-f2d7.py
 [INFO 2024-12-03_15:07:46] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-cybersecuritywithprivategpt-f2d7.py
 [INFO 2024-12-03_15:07:50] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-cybersecuritywithprivategpt-f2d7.py
+[INFO 2024-12-03_15:07:53] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-cybersecuritywithprivategpt-f2d7.py
