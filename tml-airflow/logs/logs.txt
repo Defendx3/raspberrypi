@@ -12457,3 +12457,4 @@ origin	https://<personal access token hidden>@github.com/Defendx3/raspberrypi.gi
 [INFO 2024-12-05_16:52:09] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-cybersecuritywithprivategpt-f2d7.py
 [INFO 2024-12-05_16:52:12] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-cybersecuritywithprivategpt-f2d7.py
 [INFO 2024-12-05_16:52:22] MQTT producing DAG in tml_read_MQTT_step_3_kafka_producetotopic_dag-cybersecuritywithprivategpt-f2d7.py
+[INFO 2024-12-05_16:52:25] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-cybersecuritywithprivategpt-f2d7.py
