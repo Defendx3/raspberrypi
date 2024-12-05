@@ -12518,3 +12518,4 @@ origin	https://<personal access token hidden>@github.com/Defendx3/raspberrypi.gi
 [INFO 2024-12-05_17:20:52] {'name': ['Project with slug "cybersecuritywithprivategpt-f2d7" already exists.']}
 [INFO 2024-12-05_17:21:08] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-cybersecuritywithprivategpt-f2d7.py
 [INFO 2024-12-05_17:21:10] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-cybersecuritywithprivategpt-f2d7.py
+[INFO 2024-12-05_17:21:13] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-cybersecuritywithprivategpt-f2d7.py
